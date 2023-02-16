@@ -1,2 +1,2 @@
 # bike_sharing_exploration_repo
-Data Analyst Project : Bike Sharing
+Bike Sharing Data Analysis Project in Python with JupyterLab
